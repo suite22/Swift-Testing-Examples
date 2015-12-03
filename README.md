@@ -9,6 +9,8 @@ A collection of examples as I learn how to write unit tests and UI tests. Please
 - [Arex-7](https://github.com/a2/arex-7)
 - [Polls Client](https://github.com/apiaryio/polls-app) 
 
+## UI Tests
+- [Tomate](https://github.com/dasdom/Tomate)
 
 ## Quick
 - [Poppins](https://github.com/thoughtbot/poppins)
